@@ -1,6 +1,6 @@
-bin\lists\list-general.txt
-bin\general_zapret.bat
-bin\mgts_zapret.bat
+bin/lists/list-general.txt
+bin/general_zapret.bat
+bin/mgts_zapret.bat
 rt_zapret.bat
 mgts_zapret.bat
 filelist.txt
