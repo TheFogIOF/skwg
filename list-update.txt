@@ -1,4 +1,3 @@
-bin/lists/list-twitch.txt
 bin/lists/list-general.txt
 bin/general_zapret.bat
 bin/mgts_zapret.bat
