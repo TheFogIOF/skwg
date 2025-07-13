@@ -1,6 +1,8 @@
 bin/lists/list-general.txt
 bin/general_zapret.bat
 bin/mgts_zapret.bat
+bin/alt_zapret.bat
 rt_zapret.bat
 mgts_zapret.bat
+alt_zapret.bat
 cloudflare_switch.bat
