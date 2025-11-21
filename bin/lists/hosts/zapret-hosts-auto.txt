@@ -1,2 +1,0 @@
-gateway.discord.gg
-cdn.betterttv.net

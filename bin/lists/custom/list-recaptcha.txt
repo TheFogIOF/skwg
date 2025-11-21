@@ -1,2 +1,0 @@
-recaptcha-cn.net
-recaptcha.net
